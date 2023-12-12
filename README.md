@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TextSummarizer
 # Text Summarizer with MlOps pipeline
 ## workflows
@@ -11,3 +12,6 @@
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+=======
+# TextSummarizer 
+>>>>>>> a19436c7fe5c939819cd60dcd495796088051b84
